@@ -1,1 +1,1 @@
-Display hidden files and the ones with dots at the begining 
+Display currents contents with . and other files
